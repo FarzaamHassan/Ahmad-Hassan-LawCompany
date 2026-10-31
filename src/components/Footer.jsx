@@ -151,7 +151,7 @@ export default function Footer({ onContactClick }) {
                                 <div className="footer-contact-details">
                                     <span className="footer-detail-label">WeChat Corporate ID</span>
                                     <span className="footer-detail-val">
-                                        +86 130 2765 6666
+                                        +92 320 0040595
                                     </span>
                                 </div>
                             </div>

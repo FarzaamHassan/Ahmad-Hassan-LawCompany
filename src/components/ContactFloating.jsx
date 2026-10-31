@@ -56,7 +56,7 @@ function ContactFloating() {
     };
 
     const copyPhoneNumber = () => {
-        navigator.clipboard.writeText("+8613027656666");
+        navigator.clipboard.writeText("+923200040595");
         setCopied(true);
         setTimeout(() => setCopied(false), 2000);
     };
@@ -125,7 +125,7 @@ function ContactFloating() {
                                 padding: '10px 20px', 
                                 borderRadius: '30px'
                             }}>
-                                <span style={{ fontWeight: '600', color: 'var(--text-primary)', fontSize: '0.95rem' }}>+86 130 2765 6666</span>
+                                <span style={{ fontWeight: '600', color: 'var(--text-primary)', fontSize: '0.95rem' }}>+92 320 0040595</span>
                                 <button 
                                     onClick={copyPhoneNumber}
                                     style={{
